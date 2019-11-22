@@ -10,6 +10,6 @@ TCN
 Validation Approach:
 Walk Forward Test
 
-This is the code of paper COMPARISON OF DEEP LEARNING MODELS ON TIME SERIES FORECASTING : A CASE STUDY OF DISSOLVED OXYGEN PREDICTION
+This is the code of paper COMPARISON OF DEEP LEARNING MODELS ON TIME SERIES FORECASTING : A CASE STUDY OF DISSOLVED OXYGEN PREDICTION：https://arxiv.org/abs/1911.08414
 
-To check the raw code or the paper, welcome to contact me:  hongqian@upenn.edu
+To check the raw code， welcome to contact me:  hongqian@upenn.edu
